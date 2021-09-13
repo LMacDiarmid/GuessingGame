@@ -7,6 +7,6 @@ public class Player
     {
         //guess generated and stored in number
         number = (int)(Math.random()*10);
-        System.out.println("I'm guessing " +  number);
+        //Removed the i'm guessing line since it's repeated again later
     }
 }
